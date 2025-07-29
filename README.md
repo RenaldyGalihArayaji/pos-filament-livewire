@@ -1,3 +1,6 @@
+![alt text](https://github.com/RenaldyGalihArayaji/pos-filament-livewire/blob/main/public/image/dashboard.png?raw=true)
+![alt text](https://github.com/RenaldyGalihArayaji/pos-filament-livewire/blob/main/public/image/Kasir.PNG?raw=true)
+![alt text](https://github.com/RenaldyGalihArayaji/pos-filament-livewire/blob/main/public/image/struck.PNG?raw=true)
 
 <h1>Install Project</h1>
 
